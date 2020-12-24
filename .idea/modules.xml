@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UltimateGoal.iml" filepath="$PROJECT_DIR$/.idea/modules/UltimateGoal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/UltimateGoal.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/UltimateGoal.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/UltimateGoal.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/UltimateGoal.TeamCode.iml" />
+    </modules>
+  </component>
+</project>
